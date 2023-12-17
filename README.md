@@ -1,4 +1,4 @@
-# flutter_demo
+# flutter_sqflite_database_example
 
 A new Flutter project.
 
